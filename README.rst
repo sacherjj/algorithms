@@ -10,6 +10,12 @@ I used psuedo code from various sources and I have listed them as references in 
 Algorithms implemented so far:
 ------------------------------
 
+**Data Structures:**
+
+- Queue
+- Stack
+- Disjoint Set
+
 **Sorting:**
 
 - Bogo Sort
@@ -23,6 +29,7 @@ Algorithms implemented so far:
 - In Place Quick Sort
 - Selection Sort
 - Shell Sort
+- Gnome Sort
 
 **Searching:**
 
@@ -41,7 +48,7 @@ Algorithms implemented so far:
 - Extended GCD
 - Standard Normal Probability Density Function
 - Cumulative Density Function (Approximation; 16 digit precision for 300 iter.)
-
+- Sieve of Eratosthenes
 **Random:**
 
 - Mersenne Twister
@@ -76,7 +83,7 @@ All prequisites for the algorithms are listed in the source code for each algori
 Tests:
 ------
 
-Nose is used as the main test runner and all Unit Tests can be run by: 
+Nose is used as the main test runner and all Unit Tests can be run by:
 
 ::
 
